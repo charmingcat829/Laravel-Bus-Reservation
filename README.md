@@ -51,7 +51,7 @@ border="0" /></a>
 
 <br />
 
-## 2. Set the basic config
+## 1. Set the basic config
 
 > Edit example.env to .env <br/>
 > Put your db username and password here with DB_DATABASE=busreservation. <br />
@@ -67,19 +67,19 @@ border="0" /></a>
 '''
 <br />
 
-## 3. Install Dependencies
+## 2. Install Dependencies
 
 > ~composer install <br/>
 > ~npm install <br/>
 > ~npm run dev
 > <br />
 
-## 4. Migrate Database
+## 3. Migrate Database
 
 > ~php artisan migrate:fresh <br>
 > ~php artisan db:seed <br/>
 
-## 5. Serve application
+## 4. Serve application
 
 > ~php artisan serve <br />
 
