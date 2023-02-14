@@ -49,10 +49,6 @@ border="0" /></a>
 > run composer update instead of composer install
 > also run php artisan key:generate
 
-## 1. Clone the repository
-
-> https://github.com/nishangupta/bus-reservation.git
-
 <br />
 
 ## 2. Set the basic config
